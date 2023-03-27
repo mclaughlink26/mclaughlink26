@@ -12,3 +12,5 @@
   * 🏗 Building stuff (with Lego's, cardboard, etc.),
   * 🎧 and listening to music.
 * 📬 [Contact me](mailto:mclaughlink26@wpsma.org) via e-mail
+
+![mclaughlink26's Octocat](https://user-images.githubusercontent.com/123982416/228037227-d15c20e3-ea3e-4373-a735-7c5eb812a843.png)
