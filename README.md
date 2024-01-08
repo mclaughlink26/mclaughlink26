@@ -2,7 +2,7 @@
 
 * 👋 Hi, I'm [Kieran McLaughlin](https://github.com/mclaughlink26)
 * 💻 I'm a STEM Academy student at Walpole High School
-* 🕺 I'm a 5-time World Qualifying, Open Championship level Irish Step dancer.
+* 🕺 I'm a 6-time World Qualifying, Open Championship level Irish Step dancer.
 * 🕐 Some of my favorite hobbies include:
   * 🎨 Graphic design/art (in general),
   * 👨‍💻 Coding,
